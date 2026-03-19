@@ -391,8 +391,7 @@ python3 -m WP_Log_Pose.main enumerate \
 ## 📁 File Structure
 
 ```
-WP_Log_Pose/
-├── __init__.py          Package init
+WP_Log_Pose/          
 ├── main.py              CLI entry point
 ├── config.py            Defaults and config loader
 ├── core_http.py         HTTP session and request helpers
